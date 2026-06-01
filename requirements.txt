@@ -1,0 +1,12 @@
+# Project dependencies
+# TODO: Pin versions to match your development environment if required.
+fastapi
+uvicorn[standard]
+pydantic
+scikit-learn
+pandas
+numpy
+requests
+pytest
+flake8
+httpx
